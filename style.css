@@ -20,11 +20,11 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
     flex-direction: column;
     gap: 1rem;
     color: var(--light-cyan);
-    padding: 1rem;
-    padding-block: 1rem;
+    padding: 3rem 1rem;
 }
 .id{
     letter-spacing: 5px;
